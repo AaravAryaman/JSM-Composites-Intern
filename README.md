@@ -1,1 +1,1 @@
-# JSM-Composites-Training
+# 1-Week Training @ JSM Composites

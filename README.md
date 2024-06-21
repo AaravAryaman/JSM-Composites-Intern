@@ -2,7 +2,8 @@
 I completed this 1-week training at JSM Composites from 23/05/2024 to 31/05/2024.  
   
 In this training, I was tasked with learning and understanding how carbon fibres, or other composites like EPP (Expanded Poly Propylene) in general, are used to make products in the industry.  
-And, learning the functionalities involved in the process of machining composites like Feed Rate, Material Removal Rate, Spindle Speed, Cutting Speed, Stepover and Stepdown. Also learnt about the various types and sizes of endmills used for different required purposes.  
+  
+I learnt the functionalities involved in the process of machining composites like Feed Rate, Material Removal Rate, Spindle Speed, Cutting Speed, Stepover and Stepdown. Also learnt about the various types and sizes of endmills used for different required purposes.  
   
 I completed a simple CAD model for machining, uploaded as [JSM-01](https://github.com/AaravAryaman/JSM-Composites-Training/tree/main/JSM-01).  
 Also, I made some required modifications in some of the more complex CAD models already in work, uploaded as [NW propeller case](https://github.com/AaravAryaman/JSM-Composites-Training/tree/main/NW%20propeller%20case) and [PCU EPP PACKAGING](https://github.com/AaravAryaman/JSM-Composites-Training/tree/main/PCU%20EPP%20PACKAGING).  

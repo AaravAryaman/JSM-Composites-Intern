@@ -1,4 +1,4 @@
-# Intern @ JSM Composites
+# Design Engineering Intern @ JSM Composites
 I completed this intern at JSM Composites from 23/05/2024 to 31/05/2024.  
   
 In this intern, I was tasked with learning and understanding how carbon fibres, or other composites like EPP (Expanded Poly Propylene) in general, are used to make products in the industry.  
